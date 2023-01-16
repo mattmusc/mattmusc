@@ -1,1 +1,5 @@
-![Matteo Muscella Github Stats](https://github-readme-stats.vercel.app/api?username=mattmusc&show_icons=true&theme=dracula)
+Matteo Muscella
+
+Hello! 👋
+My name is Matteo Muscella and I am a software developer, experienced in web and mobile development.
+I have experience with Java, JavaScript/TypeScript and Flutter.
